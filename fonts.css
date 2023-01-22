@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Rubik Distressed";
+  src: url(Font/RubikDistressed-Regular.eot);
+  src: url(Font/RubikDistressed-Regular.woff2) format("woff2");
+  src: url(Font/RubikDistressed-Regular.woff) format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url(Font/Montserrat-ThinItalic.eot);
+  src: url(Font/Montserrat-ThinItalic.woff2) format("woff2");
+  src: url(Font/Montserrat-ThinItalic.woff) format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url(Font/Montserrat-Thin.eot);
+  src: url(Font/Montserrat-Thin.woff2) format("woff2");
+  src: url(Font/Montserrat-Thin.woff) format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}/*# sourceMappingURL=fonts.css.map */
